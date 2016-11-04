@@ -2,7 +2,7 @@
     "name": "theme-aliencamo",
     "displayName": "Alien Camo Theme",
     "description": "A theme with a dark background and a warm alienistic foreground",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "Nuuf",
     "engines": {
         "vscode": "^1.5.0"

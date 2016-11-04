@@ -220,7 +220,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5F7A5D</string>
+				<string>#337275</string>
 			</dict>
 		</dict>
 		<dict>
@@ -303,6 +303,8 @@
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#CC7E7E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -359,7 +361,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#519449ff</string>
+				<string>#7A3A58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -381,7 +383,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.solarized_light</string>
+	<string>theme.dark.alien_camo</string>
 	<key>author</key>
 	<string>Nuuf</string>
 </dict>
