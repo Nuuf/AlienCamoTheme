@@ -199,6 +199,8 @@
 			<string>variable.parameter</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#C2809F</string>
 			</dict>
 		</dict>
 		<dict>
