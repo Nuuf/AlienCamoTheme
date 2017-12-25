@@ -1,27 +1,27 @@
 {
-    "name": "theme-aliencamo",
-    "displayName": "Alien Camo Theme",
-    "description": "A theme with a dark background and a warm alienistic foreground",
-    "version": "1.0.0",
-    "publisher": "Nuuf",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Alien Camo",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Alien Camo.tmTheme"
-            }
-        ]
-    },
-	"icon": "images/icon.png",
-	"galleryBanner": {
-		"color": "#000000",
-		"theme": "dark"
-	}
+  "name": "theme-aliencamo",
+  "displayName": "Alien Camo Theme",
+  "description": "A theme with a dark background and a warm alienistic foreground",
+  "version": "1.0.1",
+  "publisher": "Nuuf",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alien Camo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Alien Camo.tmTheme"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
 }

@@ -2,7 +2,7 @@
 
 Alien Camo Theme for VSCode
 
-### Version 0.2.1
+### Version 1.0.1
 
 ## Previews
 

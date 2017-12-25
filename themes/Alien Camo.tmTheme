@@ -190,6 +190,8 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#945391</string>
 			</dict>
 		</dict>
 		<dict>
@@ -265,6 +267,8 @@
 			<string>support.constant</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#967687</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,6 +300,8 @@
 			<string>support.other.variable</string>
 			<key>settings</key>
 			<dict>
+				<key>foreground</key>
+				<string>#46B08B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -377,6 +383,17 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#519449ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSThis</string>
+			<key>scope</key>
+			<string>variable.language.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#2AD4A7</string>
 			</dict>
 		</dict>
 	</array>
